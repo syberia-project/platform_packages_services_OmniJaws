@@ -55,4 +55,5 @@
   <string name="omnijaws_current_text">Только что</string>
   <string name="show_background_title">Стиль фона</string>
   <string name="weather_config_title">Параметры службы</string>
+  <string name="with_forecast_title">4-x дневный прогноз</string>
 </resources>
